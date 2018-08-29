@@ -1,1 +1,3 @@
 # hello-world
+
+Un essai avant de passer aux choses plus sérieuses...
